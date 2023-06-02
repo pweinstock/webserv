@@ -1,7 +1,8 @@
 # webserv
 
 
-"Mostly Harmless" Webserv project at 42 Heilbronn.
+"Mostly Harmless" Webserv project at 42 Heilbronn.\
+by [yavuzsonmez](https://github.com/yavuzsonmez), [joluc](https://github.com/joluc) & [pweinstock](https://github.com/pweinstock)
 
 Usage: `./webserv [config_file]`
 
